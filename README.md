@@ -57,7 +57,7 @@ Admin Dashboard → http://localhost/FASHIONREBORN/admin.php
 
 Logout → http://localhost/FASHIONREBORN/logout.php
 
-👤 User Features
+ User Features
 Register at: http://localhost/FASHIONREBORN/register.php
 
 Log in at: http://localhost/FASHIONREBORN/login.php
@@ -68,7 +68,7 @@ Place orders through the product listing
 
 Send messages to admin via the messaging system
 
-🔑 Admin Features
+ Admin Features
 Access dashboard: http://localhost/FASHIONREBORN/admin.php
 
 Verify new users
@@ -83,10 +83,10 @@ View and respond to user messages
 Originally uploaded to YouTube, but the video was mistakenly flagged and removed.  
 To ensure accessibility, the demo has been re‑uploaded to Google Drive.  
 
-👉 Watch here: [https://drive.google.com/file/d/1qboxc1gsxmNuGJT0UpQlmPe1w2kkKSDW/view?usp=sharing]
+ Watch here: [https://drive.google.com/file/d/1qboxc1gsxmNuGJT0UpQlmPe1w2kkKSDW/view?usp=sharing]
 
 
-📂 Repository Contents
+ Repository Contents
 index.php → Home page
 
 register.php → User registration

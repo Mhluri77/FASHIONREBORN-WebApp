@@ -1,0 +1,5 @@
+T-Shirt,Cotton round neck,199.99,tshirt.jpg
+Jeans,Blue denim slim fit,499.99,jeans.jpg
+Sneakers,White casual shoes,799.99,sneakers.jpg
+Jacket,Leather biker jacket,1299.99,jacket.jpg
+Cap,Black baseball cap,149.99,cap.jpg

@@ -99,6 +99,8 @@ myClothingStore.sql → Database schema + 30 entries
 
 tbluser_5.txt, tbladmin_5.txt, tblclothes_5.txt, tblaorder_5.txt, tblmessage_5.txt → Manual import files (5 entries each)
 
+docs/Table Structures.docx` → Word documentation of table structures 
+
 README.md → Setup and usage guide
 
 🛠 Troubleshooting

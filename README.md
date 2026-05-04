@@ -80,7 +80,7 @@ Approve, reject, ship orders
 View and respond to user messages
 
 🎥 Demo Video
-Watch the full demonstration here: [YouTube Link]
+Watch the full demonstration here: [https://youtu.be/pXmGd5ahpgw]
 
 📂 Repository Contents
 index.php → Home page

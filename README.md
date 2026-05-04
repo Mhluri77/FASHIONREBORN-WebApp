@@ -23,7 +23,7 @@ Both names are correct — folder = project name, database = schema name.
 ##  Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/FASHIONREBORN.git
+   git clone https://github.com/Mhluri77/FASHIONREBORN.git
 
 
 Code

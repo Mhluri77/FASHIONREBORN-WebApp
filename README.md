@@ -79,8 +79,12 @@ Approve, reject, ship orders
 
 View and respond to user messages
 
-🎥 Demo Video
-Watch the full demonstration here: [https://youtu.be/pXmGd5ahpgw]
+##  Demo Video
+Originally uploaded to YouTube, but the video was mistakenly flagged and removed.  
+To ensure accessibility, the demo has been re‑uploaded to Google Drive.  
+
+👉 Watch here: [https://drive.google.com/file/d/1qboxc1gsxmNuGJT0UpQlmPe1w2kkKSDW/view?usp=sharing]
+
 
 📂 Repository Contents
 index.php → Home page

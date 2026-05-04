@@ -36,7 +36,7 @@ Code
 clothingstore
 Import the SQL file:
 
-Go to Import → select myClothingStore.sql → click Go.
+Go to Import → select clothingstore.sql → click Go.
 
 (Optional) Load the 5‑entry .txt files manually:
 
